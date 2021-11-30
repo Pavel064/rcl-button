@@ -1,0 +1,2 @@
+export { default } from './Button';
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9jb21wb25lbnRzL0J1dHRvbi9pbmRleC5qcyJdLCJuYW1lcyI6WyJkZWZhdWx0Il0sIm1hcHBpbmdzIjoiQUFDQSxTQUFTQSxPQUFULFFBQXdCLFVBQXhCIiwic291cmNlc0NvbnRlbnQiOlsiXHJcbmV4cG9ydCB7IGRlZmF1bHQgfSBmcm9tICcuL0J1dHRvbic7Il19
